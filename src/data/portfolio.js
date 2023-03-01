@@ -3,18 +3,18 @@ export default [
     title: "Developer Portfolio",
     imgUrl: "./assets/portfolio-img2.jpg",
     stack: ["React", "Tailwind", "Vite"],
-    link: "https://www.facebook.se",
+    link: "",
   },
   {
-    title: "Training Website",
+    title: "Training Website - In progress",
     imgUrl: "./assets/deepdream-deadlift2.png",
     stack: ["React", "TypeScript"],
-    link: "https://www.LinkedIn.se",
+    link: "",
   },
-  {
+/*   {
     title: "Weather Website",
     imgUrl: "./assets/max-larochelle-uu-Jw5SunYI-unsplash.jpg",
     stack: ["Java"],
     link: "https://www.google.se",
-  },
+  }, */
 ];

@@ -1,7 +1,7 @@
 export default [
   {
     year: "Today",
-    title: "Frontend Developer Internship",
+    title: "Fullstack Developer Internship",
     duration: "1 year",
     details:
       "Since November 2022 I've been exploring the frontend part of development. At Qyre AB im partaking in Developing  Qyre's web application. Creating new features, designs, and other implementations. Recently built a section for phone number verification and account linking via OTP.  Small team with an agile approach in our development process. Using technologies such as REST API, CSS, React, TypeScript, Git and Cypress. ",
